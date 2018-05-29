@@ -1,0 +1,7 @@
+<svg>
+  
+  <rect id="background" class="filler"></rect>
+
+  <text id="time">HH:MM</text>
+  
+</svg>

@@ -1,0 +1,27 @@
+.defaultText {
+  font-size: 32;
+  font-family: System-Regular;
+  font-weight: regular;
+  text-length: 32;
+}
+
+.filler {
+  x: 0;
+  y: 0;
+  width: 100%;
+  height: 100%;
+}
+
+#background {
+  fill: black;
+}
+
+#time {
+  x: 50%;
+  y: 40%;
+  text-anchor: middle;
+  font-size: 85;
+  fill: white;
+  text-length: 5;
+}
+
